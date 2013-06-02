@@ -1,4 +1,4 @@
-# translate
+# twilio
 
 A Clojure library for interaction with Twilio REST API.
 

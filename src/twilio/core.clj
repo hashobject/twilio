@@ -4,8 +4,6 @@
 
 (def base "https://api.twilio.com/2010-04-01")
 
-
-
 (defn make-request-url [endpoint sid]
   (format
     "%s/Accounts/%s/%s.json"
