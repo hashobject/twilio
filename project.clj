@@ -1,4 +1,4 @@
-(defproject twilio "0.1.0"
+(defproject twilio "0.1.1"
   :description "A Clojure library for interaction with Twilio REST API."
   :signing {:gpg-key "HashObject Ltd <team@hashobject.com>"}
   :url "https://github.com/hashobject/twilio"

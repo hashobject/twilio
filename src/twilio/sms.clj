@@ -1,9 +1,8 @@
 (ns twilio.sms
-  (refer-clojure :exclude [send])
   (:require [twilio.core :as twilio]))
 
 
-(defn send
+(defn send-message
   "Send an SMS message
     msg is a map with the following keys
     - From
