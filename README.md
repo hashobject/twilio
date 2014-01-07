@@ -4,6 +4,8 @@ A Clojure library for interaction with Twilio REST API.
 
 Heavily inspired by [owainlewis/twilio](https://github.com/owainlewis/twilio).
 
+[![Dependencies Status](http://jarkeeper.com/hashobject/twilio/status.png)](http://jarkeeper.com/hashobject/twilio)
+
 ## Install
 
 ```
